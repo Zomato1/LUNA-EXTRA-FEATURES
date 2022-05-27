@@ -2421,7 +2421,7 @@ class Fonts:
             text = text.replace(i, j)
         return text
     
-    def lovers(text):
+    def lover(text):
         style = {
             'a': '💞a',
             'b': '💞b',
