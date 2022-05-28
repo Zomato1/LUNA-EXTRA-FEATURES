@@ -8,7 +8,7 @@ from plugins.helper_functions.get_file_id import get_file_id
 
 
 @Client.on_message(
-    filters.command("tgraph") &
+    filters.command("telegraph") &
     f_onw_fliter
 )
 async def telegraph(client, message):
@@ -36,7 +36,7 @@ async def telegraph(client, message):
         await message.reply_text(message, text=document)
     else:
         await message.reply(
-            f"Link :- <code>https://telegra.ph{response[0]}</code>",
+            f"<b>🌹𝚈𝙾𝚄𝚁 𝙻𝙸𝙽𝙺 𝙸𝚂 𝙷𝙴𝚁𝙴 𝙳𝚄𝙳𝙴🎀</b> (╭☞•́⍛•̀)╭☞ <code>https://telegra.ph{response[0]}</code>",
             disable_web_page_preview=True
         )
     finally:
