@@ -753,8 +753,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('❓ ᏟϴᎷᎷᎪΝᎠՏ ❓', callback_data='commands'),
             InlineKeyboardButton('😍 ᎪᏴϴႮͲ 😍', callback_data='about')
             ],[
-            InlineKeyboardButton('🔗 ՏႮᏴՏᏟᎡᏆᏴᎬ 🔗', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA'),
-            InlineKeyboardButton('×͜× ᎷᏆᎡᎡϴᎡ ᏴϴͲ ×͜×', url='https://t.me/Luna_mirror_bot')
+            InlineKeyboardButton('🔗 ՏႮᏴՏᏟᎡᏆᏴᎬ 🔗', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
