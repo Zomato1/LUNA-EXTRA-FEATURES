@@ -16,7 +16,7 @@ class script(object):
 <b>✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
 <b>✮ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄</b>
 <b>✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅1.0.43</b>
-<b>✮ 𝙶𝚁𝙾𝚄𝙿: <a href=https://t.me/web_series_movies_cartoons>𝚆𝙴𝙱-𝚂𝙴𝚁𝙸𝙴𝚂-𝙼𝙾𝚅𝙸𝙴𝚂-𝙲𝙰𝚁𝚃𝙾𝙾𝙽𝚂</a></b>
+<b>✮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://t.me/All_in_ones_01>ᎪᏞᏞ ᏆΝ ϴΝᎬՏ⚡</a></b>
 <b>✮ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA>𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴</a></b>"""
     FONT_TXT = """<b>𝚂𝚃𝚈𝙻𝙸𝚂𝙷 𝙵𝙾𝙽𝚃 𝙼𝙾𝙳𝚄𝙻𝙴</b>
     
