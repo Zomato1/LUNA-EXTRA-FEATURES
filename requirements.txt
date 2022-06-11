@@ -54,5 +54,7 @@ Wikipedia
 pytz
 geopy>=2.1.0
 shazamio
+ffmpeg
 
+avconv
 
