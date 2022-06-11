@@ -45,8 +45,6 @@ aiofiles
 asyncio
 youtube_search
 search_engine_parser
-ffmpeg-python
-ffmpeg
 Pillow
 ujson
 Heroku3
@@ -54,6 +52,4 @@ Wikipedia
 pytz
 geopy>=2.1.0
 shazamio
-ffmpeg
-avconv
 
