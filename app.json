@@ -17,7 +17,7 @@
       "inline"
     ],
     "website": "https://github.com/BalamuruganDV/LUNA-EXTRA-FEATURES",
-    "repository": "https://github.com/BalamuruganDV/LUNA-EXTRA-FEATURES",
+    "repository": "https://github.com/Zomato1/LUNA-EXTRA-FEATURES",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
